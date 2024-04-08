@@ -1,0 +1,30 @@
+{
+  "logo": {
+    "id": "6613aa3670f13744123a561f",
+    "alt": "logo",
+    "filename": "logo.png",
+    "mimeType": "image/png",
+    "filesize": 155967,
+    "width": 1200,
+    "height": 479,
+    "createdAt": "2024-04-08T08:26:30.606Z",
+    "updatedAt": "2024-04-08T08:26:30.606Z",
+    "url": "http://localhost:4000/media/logo.png"
+  },
+  "navLinks": [
+    {
+      "label": "Home",
+      "link": "/",
+      "id": "6613aa416f825b2d8dfd0864"
+    },
+    {
+      "label": "Recent Blog Posts",
+      "link": "/recent-blog-posts",
+      "id": "6613aa496f825b2d8dfd0865"
+    }
+  ],
+  "globalType": "header",
+  "createdAt": "2024-04-08T08:27:00.524Z",
+  "updatedAt": "2024-04-08T08:27:00.524Z",
+  "id": "6613aa5470f13744123a5627"
+}

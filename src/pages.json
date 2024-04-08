@@ -1,5 +1,19 @@
 [
   {
+    "id": "66145ccecc82a41e60ddac65",
+    "name": "Recent Blog Posts",
+    "slug": "recent-blog-posts",
+    "layout": [
+      {
+        "heading": "Top 3 recent posts",
+        "id": "66145cceb53ad2f7b0d32f93",
+        "blockType": "recentBlogPosts"
+      }
+    ],
+    "createdAt": "2024-04-08T21:08:30.252Z",
+    "updatedAt": "2024-04-08T21:08:30.252Z"
+  },
+  {
     "id": "661358df1b133fee3ed98e22",
     "name": "Test Page",
     "slug": "index",
@@ -189,6 +203,11 @@
     "updatedAt": "2024-04-08T05:27:17.792Z",
     "layout": [
       {
+        "heading": "First Blog Post",
+        "id": "6613952ff5a8c23e09209a1e",
+        "blockType": "hero"
+      },
+      {
         "body": {
           "root": {
             "type": "root",
@@ -266,11 +285,6 @@
         },
         "id": "66139e48cfab8362cf1b473b",
         "blockType": "simpleRichText"
-      },
-      {
-        "heading": "First Blog Post",
-        "id": "6613952ff5a8c23e09209a1e",
-        "blockType": "hero"
       }
     ]
   },
@@ -384,6 +398,11 @@
     "updatedAt": "2024-04-08T07:30:27.207Z",
     "layout": [
       {
+        "heading": "Second Post",
+        "id": "6613952ff5a8c23e09209a1e",
+        "blockType": "hero"
+      },
+      {
         "body": {
           "root": {
             "type": "root",
@@ -461,11 +480,6 @@
         },
         "id": "66139e48cfab8362cf1b473b",
         "blockType": "simpleRichText"
-      },
-      {
-        "heading": "Second Post",
-        "id": "6613952ff5a8c23e09209a1e",
-        "blockType": "hero"
       }
     ]
   }

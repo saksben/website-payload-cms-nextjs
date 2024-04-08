@@ -1,3 +1,5 @@
+import Footer from "@/blocks/global/Footer";
+import Header from "@/blocks/global/Header";
 import "@/styles/globals.css";
 
 import axios from "axios";
@@ -8,5 +10,11 @@ axios.defaults.headers.patch["Content-Type"] = "application/json";
 axios.defaults.withCredentials = true;
 
 export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />;
+  return (
+    <>
+      <Header />
+      <Component {...pageProps} />
+      <Footer />
+    </>
+  )
 }

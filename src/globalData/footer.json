@@ -1,0 +1,18 @@
+{
+  "bottomNavLinks": [
+    {
+      "label": "Legal",
+      "link": "/legal",
+      "id": "6613aa5a6f825b2d8dfd0866"
+    },
+    {
+      "label": "Jobs",
+      "link": "/jobs",
+      "id": "6613aa5f6f825b2d8dfd0867"
+    }
+  ],
+  "globalType": "footer",
+  "createdAt": "2024-04-08T08:27:16.867Z",
+  "updatedAt": "2024-04-08T08:27:16.867Z",
+  "id": "6613aa6470f13744123a5632"
+}
